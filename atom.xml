@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jammylab.github.io</id>
     <title>JammyLab</title>
-    <updated>2020-02-06T07:21:26.269Z</updated>
+    <updated>2020-02-07T08:47:12.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jammylab.github.io"/>
     <link rel="self" href="https://jammylab.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://jammylab.github.io/images/avatar.png</logo>
     <icon>https://jammylab.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, JammyLab</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么喜欢自媒体]]></title>
+        <id>https://jammylab.github.io/post/wei-shi-me-xi-huan-zi-mei-ti</id>
+        <link href="https://jammylab.github.io/post/wei-shi-me-xi-huan-zi-mei-ti">
+        </link>
+        <updated>2020-02-07T08:42:50.000Z</updated>
+        <content type="html"><![CDATA[<h4 id="世界上有很多人得值得被纪念他们有的做出了巨大得牺牲有的敢于说出了真话">世界上有很多人得值得被纪念，他们有的做出了巨大得牺牲，有的敢于说出了真话。</h4>
+<h4 id="当没有人记得他们得时候当自己有能力说一些话得时候告诉后面得孩子们这些人值得被大家记住">当没有人记得他们得时候，当自己有能力说一些话得时候，告诉后面得孩子们，这些人值得被大家记住。</h4>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[good course]]></title>
         <id>https://jammylab.github.io/post/good-course</id>
